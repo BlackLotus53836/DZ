@@ -9,3 +9,6 @@ grgrgrgrgrgrggr
 * git branch - показывает ветки
 
 * git log
+
+* git merge - объедин веток
+g
